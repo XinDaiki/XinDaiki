@@ -42,7 +42,7 @@
   <img 
     src="https://github.com/user-attachments/assets/56253d88-a7d4-4960-ada1-77ba94f7f863" 
     alt="7d924daa-6b6b-4678-acfd-f20d57910a2c
-    style="height: 200px; margin-right: 20px;"
+    style="height: 150px; margin-right: 20px;"
   />
 
   <img
