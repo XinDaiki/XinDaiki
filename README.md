@@ -11,7 +11,7 @@
 ###
 
 <div style="
-  display: flex;
+  display: center;
   justify-content: center;
   align-items: center;
   gap: 30px;
