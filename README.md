@@ -61,8 +61,6 @@
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zvha6re23ql5hj4kpewdcdupce&unique={true|1|on|yes})
-
 ###
 
 <div align="center">
