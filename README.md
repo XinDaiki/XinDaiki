@@ -38,7 +38,13 @@
 
 ###
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div style="
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  flex-wrap: nowrap;
+">
   <img 
     src="https://github.com/user-attachments/assets/56253d88-a7d4-4960-ada1-77ba94f7f863" 
     alt="7d924daa-6b6b-4678-acfd-f20d57910a2c"
