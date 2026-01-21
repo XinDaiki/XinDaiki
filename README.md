@@ -48,7 +48,7 @@
   <img
     src="https://github.com/user-attachments/assets/8c064429-28c4-474e-aaf5-086375119569"
     alt="63ae25b4-4751-470a-9104-a8532f80889c"
-    style="height: 120px;"
+    style="height: 200px;"
   />
 </div>
 
