@@ -6,11 +6,27 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Certifications</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<div style="
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  flex-wrap: nowrap;
+">
+  <img 
+    src="https://github.com/user-attachments/assets/56253d88-a7d4-4960-ada1-77ba94f7f863" 
+    alt="AI Fundamentals Certification"
+    style="height: 250px;"
+  />
+  <img
+    src="https://github.com/user-attachments/assets/8c064429-28c4-474e-aaf5-086375119569"
+    alt="Data Literacy Certification"
+    style="height: 250px;"
+  />
 
 ###
 
@@ -35,28 +51,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
-
-###
-
-<div style="
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 30px;
-  flex-wrap: nowrap;
-">
-  <img 
-    src="https://github.com/user-attachments/assets/56253d88-a7d4-4960-ada1-77ba94f7f863" 
-    alt="AI Fundamentals Certification"
-    style="height: 250px;"
-  />
-  <img
-    src="https://github.com/user-attachments/assets/8c064429-28c4-474e-aaf5-086375119569"
-    alt="Data Literacy Certification"
-    style="height: 250px;"
-  />
-
-
 
 ###
 
