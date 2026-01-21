@@ -48,12 +48,12 @@
   <img 
     src="https://github.com/user-attachments/assets/56253d88-a7d4-4960-ada1-77ba94f7f863" 
     alt="AI Fundamentals Certification"
-    style="height: 200px;"
+    style="height: 250px;"
   />
   <img
     src="https://github.com/user-attachments/assets/8c064429-28c4-474e-aaf5-086375119569"
     alt="Data Literacy Certification"
-    style="height: 200px;"
+    style="height: 250px;"
   />
 
 
