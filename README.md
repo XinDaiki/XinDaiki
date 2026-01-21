@@ -47,16 +47,14 @@
 ">
   <img 
     src="https://github.com/user-attachments/assets/56253d88-a7d4-4960-ada1-77ba94f7f863" 
-    alt="7d924daa-6b6b-4678-acfd-f20d57910a2c"
-    style="height: 200px; margin-right: 20px;"
-  />
-
-  <img
-    src="https://github.com/user-attachments/assets/8c064429-28c4-474e-aaf5-086375119569"
-    alt="63ae25b4-4751-470a-9104-a8532f80889c"
+    alt="AI Fundamentals Certification"
     style="height: 200px;"
   />
-</div>
+  <img
+    src="https://github.com/user-attachments/assets/8c064429-28c4-474e-aaf5-086375119569"
+    alt="Data Literacy Certification"
+    style="height: 200px;"
+  />
 
 
 
